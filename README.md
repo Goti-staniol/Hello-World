@@ -11,6 +11,6 @@
 <h2>🛠️ Технологии и инструменты</h2>
 <ul>
   <li><strong>Языки программирования:</strong> Python, Java, C#, PHP</li>
-  <li><strong>Фреймворки:</strong> React, Node.js, Django</li>
+  <li><strong>Фреймворки:</strong> Flask, Spring boot, Django</li>
   <li><strong>Инструменты:</strong> Git, Docker, VS Code</li>
 </ul>
